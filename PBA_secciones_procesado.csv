@@ -1,0 +1,136 @@
+﻿gid,provincia,departamen,cabecera,votos_fdt_2019,Porcentaje_s_validos_fdt_2019,votos_fdt_2021,Porcentaje_s_validos_fdt_2021,Diferencia_porcentaje_s_validos,Diferencia_votos,Diferencia_proporción_votos,Vista_circuitos
+23347,Buenos Aires,25 de Mayo,25 de Mayo,8950,39.7,5745,27.3,-12.3,-3205,-35.8,Confiable ver circuitos
+23348,Buenos Aires,Gonzales Chaves,Adolfo Gonzales Chaves,3647,46.6,2190,33.4,-13.2,-1457,-40.0,Confiable ver circuitos
+23349,Buenos Aires,Adolfo Alsina,Carhué,3605,33.2,1973,21.2,-12.0,-1632,-45.3,No confiable ver circuitos
+23350,Buenos Aires,Alberti,Alberti,3053,40.9,2307,33.1,-7.8,-746,-24.4,Confiable ver circuitos
+23351,Buenos Aires,Almirante Brown,Almirante Brown,185079,56.8,122333,41.4,-15.4,-62746,-33.9,No confiable ver circuitos
+23352,Buenos Aires,Arrecifes,Arrecifes,7516,40.1,4672,26.8,-13.2,-2844,-37.8,No confiable ver circuitos
+23353,Buenos Aires,Avellaneda,Avellaneda,112846,52.3,75466,39.1,-13.2,-37380,-33.1,Confiable ver circuitos
+23369,Buenos Aires,Carlos Tejedor,Carlos Tejedor,3628,46.4,2998,40.0,-6.4,-630,-17.4,No confiable ver circuitos
+23354,Buenos Aires,Ayacucho,Ayacucho,5072,39.8,2958,26.6,-13.2,-2114,-41.7,No confiable ver circuitos
+23355,Buenos Aires,Azul,Azul,15430,37.5,7219,20.1,-17.4,-8211,-53.2,No confiable ver circuitos
+23356,Buenos Aires,Bahía Blanca,Bahía Blanca,60462,33.6,32807,20.3,-13.3,-27655,-45.7,Confiable ver circuitos
+23370,Buenos Aires,Carmen de Areco,Carmen de Areco,3949,39.8,2343,25.2,-14.6,-1606,-40.7,Confiable ver circuitos
+23371,Buenos Aires,Castelli,Castelli,2831,48.8,2171,40.0,-8.8,-660,-23.3,Confiable ver circuitos
+23372,Buenos Aires,Chacabuco,Chacabuco,14676,46.0,9746,36.0,-10.0,-4930,-33.6,No confiable ver circuitos
+23373,Buenos Aires,Chascomús,Chascomús,9008,36.3,4952,21.7,-14.6,-4056,-45.0,No confiable ver circuitos
+23374,Buenos Aires,Chivilcoy,Chivilcoy,19463,43.0,7751,19.5,-23.5,-11712,-60.2,No confiable ver circuitos
+23357,Buenos Aires,Balcarce,Balcarce,9249,32.4,5202,19.4,-13.0,-4047,-43.8,No confiable ver circuitos
+23358,Buenos Aires,Baradero,Baradero,11594,53.4,6119,31.5,-21.8,-5475,-47.2,Confiable ver circuitos
+23359,Buenos Aires,Benito Juárez,Benito Juárez,6521,50.3,3873,35.8,-14.4,-2648,-40.6,No confiable ver circuitos
+23360,Buenos Aires,Berazategui,Berazategui,110071,55.4,68975,38.3,-17.2,-41096,-37.3,No confiable ver circuitos
+23380,Buenos Aires,Daireaux,Daireaux,5084,46.3,3583,36.3,-9.9,-1501,-29.5,No confiable ver circuitos
+23361,Buenos Aires,Berisso,Berisso,30845,53.9,19271,36.6,-17.3,-11574,-37.5,No confiable ver circuitos
+23381,Buenos Aires,Dolores,Dolores,6526,37.5,4130,24.4,-13.1,-2396,-36.7,No confiable ver circuitos
+23382,Buenos Aires,Ensenada,Ensenada,23796,58.8,18178,47.1,-11.6,-5618,-23.6,No confiable ver circuitos
+23383,Buenos Aires,Escobar,Escobar,68680,51.6,43178,36.6,-15.0,-25502,-37.1,No confiable ver circuitos
+23384,Buenos Aires,Esteban Echeverria,Esteban Echeverria,92584,54.7,54428,36.6,-18.1,-38156,-41.2,No confiable ver circuitos
+23362,Buenos Aires,Bolívar,San Carlos de Bolívar,8551,38.4,6339,32.0,-6.3,-2212,-25.9,No confiable ver circuitos
+23388,Buenos Aires,Florentino Ameghino,Florentino Ameghino,2769,44.4,2018,34.8,-9.6,-751,-27.1,Confiable ver circuitos
+23389,Buenos Aires,General Alvarado,Miramar,11028,42.1,7516,31.2,-10.9,-3512,-31.8,Confiable ver circuitos
+23390,Buenos Aires,General Alvear,General Alvear,2650,41.5,1631,29.3,-12.2,-1019,-38.5,Confiable ver circuitos
+23391,Buenos Aires,General Arenales,General Arenales,4401,40.0,2493,23.3,-16.7,-1908,-43.4,No confiable ver circuitos
+23363,Buenos Aires,Bragado,Bragado,12521,44.8,8374,34.7,-10.0,-4147,-33.1,No confiable ver circuitos
+23392,Buenos Aires,General Belgrano,General Belgrano,4873,39.8,3217,28.9,-10.9,-1656,-34.0,Confiable ver circuitos
+23364,Buenos Aires,Brandsen,Coronel Brandsen,9029,49.2,5032,28.9,-20.3,-3997,-44.3,No confiable ver circuitos
+23365,Buenos Aires,Campana,Campana,26594,43.1,17132,30.3,-12.8,-9462,-35.6,No confiable ver circuitos
+23366,Buenos Aires,Cañuelas,Cañuelas,16807,51.0,9874,32.0,-19.0,-6933,-41.3,No confiable ver circuitos
+23367,Buenos Aires,Capitan Sarmiento,Capitán Sarmiento,3294,34.8,1300,15.0,-19.8,-1994,-60.5,Confiable ver circuitos
+23368,Buenos Aires,Carlos Casares,Carlos Casares,5664,39.8,4457,34.4,-5.4,-1207,-21.3,No confiable ver circuitos
+23375,Buenos Aires,Coronel Rosales,Punta Alta,8292,22.9,5192,15.6,-7.3,-3100,-37.4,No confiable ver circuitos
+23393,Buenos Aires,General Guido,General Guido,682,33.4,659,35.4,2.0,-23,-3.4,Confiable ver circuitos
+23376,Buenos Aires,Colón,Colón,9092,55.4,4122,29.1,-26.2,-4970,-54.7,No confiable ver circuitos
+23377,Buenos Aires,Coronel Dorrego,Coronel Dorrego,3341,35.6,2274,24.3,-11.3,-1067,-31.9,No confiable ver circuitos
+23378,Buenos Aires,Coronel Pringles,Coronel Pringles,5213,35.5,2105,16.1,-19.5,-3108,-59.6,No confiable ver circuitos
+23379,Buenos Aires,Coronel Suárez,Coronel Suárez,11481,44.0,4898,22.8,-21.3,-6583,-57.3,No confiable ver circuitos
+23385,Buenos Aires,Exaltación de la Cruz,Capilla del Señor,9495,45.6,5914,29.9,-15.7,-3581,-37.7,Confiable ver circuitos
+23386,Buenos Aires,Ezeiza,Ezeiza,52718,56.2,38134,42.7,-13.5,-14584,-27.7,No confiable ver circuitos
+23387,Buenos Aires,Florencio Varela,Florencio Varela,143402,62.3,81195,41.0,-21.3,-62207,-43.4,No confiable ver circuitos
+23394,Buenos Aires,General Juan Madariaga,General Juan Madariaga,5312,40.1,2345,20.5,-19.6,-2967,-55.9,Confiable ver circuitos
+23403,Buenos Aires,General Viamonte,Los Toldos,5684,47.1,3634,33.4,-13.6,-2050,-36.1,Confiable ver circuitos
+23395,Buenos Aires,General Lamadrid,General Lamadrid,2732,38.9,1989,30.8,-8.0,-743,-27.2,No confiable ver circuitos
+23405,Buenos Aires,Hipólito Yrigoyen,Henderson,2590,43.6,2058,39.9,-3.7,-532,-20.5,No confiable ver circuitos
+23396,Buenos Aires,General Las Heras,General Las Heras,4909,49.6,3478,35.7,-13.9,-1431,-29.2,No confiable ver circuitos
+23397,Buenos Aires,General Lavalle,General Lavalle,815,31.5,573,18.5,-13.0,-242,-29.7,No confiable ver circuitos
+23409,Buenos Aires,Junín,Junín,23633,42.2,14028,26.1,-16.1,-9605,-40.6,Confiable ver circuitos
+23410,Buenos Aires,La Costa,Santa Teresita - Mar del Tuyú,21600,44.7,13129,29.6,-15.1,-8471,-39.2,No confiable ver circuitos
+23411,Buenos Aires,La Matanza,La Matanza,464679,61.0,290492,44.0,-17.0,-174187,-37.5,No confiable ver circuitos
+23412,Buenos Aires,La Plata,La Plata,164362,42.0,112304,30.5,-11.5,-52058,-31.7,No confiable ver circuitos
+23413,Buenos Aires,Lanús,Lanús,143193,50.9,93874,37.9,-13.0,-49319,-34.4,Confiable ver circuitos
+23398,Buenos Aires,General Paz,Ranchos,4009,47.2,3081,36.9,-10.3,-928,-23.1,Confiable ver circuitos
+23399,Buenos Aires,General Pinto,General Pinto,3755,49.6,2824,38.4,-11.2,-931,-24.8,No confiable ver circuitos
+23400,Buenos Aires,General Pueyrredon,Mar del Plata,144074,38.4,87469,26.0,-12.5,-56605,-39.3,No confiable ver circuitos
+23401,Buenos Aires,General Rodríguez,25 de Mayo,31213,54.9,13842,29.0,-26.0,-17371,-55.7,Confiable ver circuitos
+23402,Buenos Aires,General San Martin,General San Martín,115987,48.0,71705,33.1,-14.9,-44282,-38.2,No confiable ver circuitos
+23404,Buenos Aires,Guamini,Guamini,3154,42.4,2012,31.0,-11.4,-1142,-36.2,Confiable ver circuitos
+23406,Buenos Aires,Hurlingham,Hurlingham,57963,51.1,35921,35.0,-16.1,-22042,-38.0,No confiable ver circuitos
+23407,Buenos Aires,Ituzaingó,Ituzaingó,50989,47.4,33189,34.4,-13.0,-17800,-34.9,No confiable ver circuitos
+23408,Buenos Aires,José C. Paz,José C. Paz,99839,62.1,60395,44.6,-17.5,-39444,-39.5,No confiable ver circuitos
+23414,Buenos Aires,Laprida,Laprida,3959,54.4,2588,38.8,-15.6,-1371,-34.6,No confiable ver circuitos
+23415,Buenos Aires,Las Flores,Las Flores,7366,45.3,5516,37.2,-8.1,-1850,-25.1,No confiable ver circuitos
+23416,Buenos Aires,Leandro N. Alem,Vedia,5362,48.5,3411,34.7,-13.9,-1951,-36.4,Confiable ver circuitos
+23417,Buenos Aires,Lezama,Lezama,1543,39.4,1046,29.9,-9.5,-497,-32.2,No confiable ver circuitos
+23423,Buenos Aires,Maipú,Maipú,3233,42.0,2490,34.7,-7.3,-743,-23.0,No confiable ver circuitos
+23418,Buenos Aires,Lincoln,Lincoln,10601,37.8,8837,34.2,-3.6,-1764,-16.6,No confiable ver circuitos
+23425,Buenos Aires,Mar Chiquita,Coronel Vidal,8346,46.7,6745,37.4,-9.3,-1601,-19.2,No confiable ver circuitos
+23426,Buenos Aires,Marcos Paz,Marcos Paz,18278,57.8,10252,34.1,-23.6,-8026,-43.9,No confiable ver circuitos
+23419,Buenos Aires,Lobos,Lobos,9197,37.9,4719,21.1,-16.8,-4478,-48.7,No confiable ver circuitos
+23420,Buenos Aires,Lomas de Zamora,Lomas de Zamora,200198,54.8,131978,40.3,-14.5,-68220,-34.1,No confiable ver circuitos
+23421,Buenos Aires,Luján,Luján,27702,41.7,14892,26.4,-15.4,-12810,-46.2,Confiable ver circuitos
+23422,Buenos Aires,Magdalena,Magdalena,4333,39.7,3021,27.7,-12.0,-1312,-30.3,Confiable ver circuitos
+23424,Buenos Aires,Malvinas Argentinas,Malvinas Argentinas,118183,58.4,76211,43.6,-14.7,-41972,-35.5,No confiable ver circuitos
+23442,Buenos Aires,Pinamar,Pinamar,6295,36.8,4387,29.3,-7.4,-1908,-30.3,No confiable ver circuitos
+23427,Buenos Aires,Mercedes,Mercedes,16962,40.7,11019,28.6,-12.2,-5943,-35.0,Confiable ver circuitos
+23428,Buenos Aires,Merlo,Merlo,173024,60.7,99722,39.5,-21.2,-73302,-42.4,No confiable ver circuitos
+23429,Buenos Aires,Monte,San Miguel del Monte,5071,36.2,4051,32.7,-3.5,-1020,-20.1,Confiable ver circuitos
+23430,Buenos Aires,Monte Hermoso,Monte Hermoso,2768,52.5,3003,52.7,0.2,235,8.5,Confiable ver circuitos
+23431,Buenos Aires,Moreno,Moreno,146399,61.2,81765,36.9,-24.3,-64634,-44.1,No confiable ver circuitos
+23432,Buenos Aires,Morón,Morón,88563,42.9,56862,30.7,-12.2,-31701,-35.8,Confiable ver circuitos
+23448,Buenos Aires,Rauch,Rauch,4159,41.1,3110,32.3,-8.8,-1049,-25.2,No confiable ver circuitos
+23449,Buenos Aires,Rivadavia,América,4438,40.4,2471,24.5,-15.9,-1967,-44.3,No confiable ver circuitos
+23433,Buenos Aires,Navarro,Navarro,4908,42.6,2623,23.6,-19.0,-2285,-46.6,No confiable ver circuitos
+23434,Buenos Aires,Necochea,Necochea - Quequén,20164,34.5,10612,20.3,-14.3,-9552,-47.4,No confiable ver circuitos
+23450,Buenos Aires,Rojas,Rojas,6347,39.8,2676,18.8,-21.0,-3671,-57.8,Confiable ver circuitos
+23451,Buenos Aires,Roque Pérez,Roque Pérez,3311,40.8,2035,25.4,-15.3,-1276,-38.5,Confiable ver circuitos
+23435,Buenos Aires,Olavarría,Olavarría,25562,37.9,17015,26.8,-11.2,-8547,-33.4,No confiable ver circuitos
+23436,Buenos Aires,Patagones,Carmen de Patagones,8884,46.7,5525,32.8,-14.0,-3359,-37.8,No confiable ver circuitos
+23469,Buenos Aires,Tordillo,General Conesa,823,47.5,650,37.1,-10.4,-173,-21.0,Confiable ver circuitos
+23470,Buenos Aires,Tornquist,Tornquist,3492,36.7,2272,26.1,-10.6,-1220,-34.9,No confiable ver circuitos
+23437,Buenos Aires,Pehuajó,Pehuajó,11791,47.2,8218,34.2,-13.0,-3573,-30.3,No confiable ver circuitos
+23438,Buenos Aires,Pellegrini,Pellegrini,1236,34.7,1138,33.2,-1.5,-98,-7.9,Confiable ver circuitos
+23439,Buenos Aires,Pergamino,Pergamino,23616,36.1,11438,19.8,-16.3,-12178,-51.6,No confiable ver circuitos
+23471,Buenos Aires,Trenque Lauquen,Trenque Lauquen,11283,39.9,6029,23.9,-16.1,-5254,-46.6,No confiable ver circuitos
+23440,Buenos Aires,Pila,Pila,1297,49.0,1038,43.6,-5.5,-259,-20.0,No confiable ver circuitos
+23441,Buenos Aires,Pilar,Presidente Derqui,64720,48.3,61559,37.2,-11.1,-3161,-4.9,No confiable ver circuitos
+23472,Buenos Aires,Tres Arroyos,Tres Arroyos,15931,43.1,9845,30.0,-13.0,-6086,-38.2,No confiable ver circuitos
+23443,Buenos Aires,Presidente Perón,Guernica,29066,62.4,13372,32.3,-30.2,-15694,-54.0,No confiable ver circuitos
+23444,Buenos Aires,Puan,Puan,3013,28.6,1577,16.3,-12.4,-1436,-47.7,No confiable ver circuitos
+23445,Buenos Aires,Punta Indio,Verónica,3107,43.3,2156,33.2,-10.1,-951,-30.6,No confiable ver circuitos
+23446,Buenos Aires,Quilmes,Quilmes,174111,52.5,103018,33.4,-19.1,-71093,-40.8,No confiable ver circuitos
+23447,Buenos Aires,Ramallo,Ramallo,9980,44.9,5190,25.3,-19.7,-4790,-48.0,Confiable ver circuitos
+23452,Buenos Aires,Saavedra,Saavedra,4246,33.3,2917,25.2,-8.2,-1329,-31.3,Confiable ver circuitos
+23453,Buenos Aires,Saladillo,Saladillo,7172,35.9,5511,29.6,-6.3,-1661,-23.2,No confiable ver circuitos
+23454,Buenos Aires,Salliqueló,Salliqueló,2065,35.6,1678,31.0,-4.5,-387,-18.7,No confiable ver circuitos
+23455,Buenos Aires,Salto,Salto,9846,44.3,5052,25.8,-18.5,-4794,-48.7,No confiable ver circuitos
+23475,Buenos Aires,Vicente López,Vicente López,46421,27.0,32829,20.5,-6.5,-13592,-29.3,No confiable ver circuitos
+23456,Buenos Aires,San Andrés de Giles,San Andrés de Giles,6396,41.5,3832,28.5,-13.0,-2564,-40.1,No confiable ver circuitos
+23457,Buenos Aires,San Antonio de Areco,San Antonio de Areco,6658,42.9,3906,28.4,-14.5,-2752,-41.3,Confiable ver circuitos
+23458,Buenos Aires,San Cayetano,San Cayetano,1640,30.0,1132,22.1,-8.0,-508,-31.0,No confiable ver circuitos
+23459,Buenos Aires,San Fernando,San Fernando,45696,46.6,32077,35.5,-11.1,-13619,-29.8,No confiable ver circuitos
+23460,Buenos Aires,San Isidro,San Isidro,59562,29.3,35305,18.9,-10.4,-24257,-40.7,No confiable ver circuitos
+23461,Buenos Aires,San Miguel,San Miguel,81076,47.1,43808,28.3,-18.8,-37268,-46.0,No confiable ver circuitos
+23462,Buenos Aires,San Nicolás,San Nicolás de los Arroyos,40083,44.0,25051,30.9,-13.0,-15032,-37.5,No confiable ver circuitos
+23463,Buenos Aires,San Pedro,San Pedro,15345,41.1,10282,30.9,-10.2,-5063,-33.0,No confiable ver circuitos
+23464,Buenos Aires,San Vicente,San Vicente,20902,53.9,12745,35.0,-18.9,-8157,-39.0,Confiable ver circuitos
+23476,Buenos Aires,Villa Gesell,Villa Gesell,9169,46.4,5843,32.4,-14.0,-3326,-36.3,Confiable ver circuitos
+23477,Buenos Aires,Villarino,Médanos,5450,31.8,3362,21.2,-10.6,-2088,-38.3,No confiable ver circuitos
+23478,Buenos Aires,Zárate,Zárate,36665,50.3,18969,29.5,-20.8,-17696,-48.3,No confiable ver circuitos
+23465,Buenos Aires,Suipacha,Suipacha,3611,50.1,2400,35.2,-14.9,-1211,-33.5,No confiable ver circuitos
+23466,Buenos Aires,Tandil,Tandil,29742,37.0,16517,23.1,-14.0,-13225,-44.5,No confiable ver circuitos
+23467,Buenos Aires,Tapalqué,Tapalqué,3280,50.3,1959,34.6,-15.7,-1321,-40.3,Confiable ver circuitos
+23468,Buenos Aires,Tigre,Tigre,108930,47.3,65631,32.1,-15.3,-43299,-39.7,No confiable ver circuitos
+23473,Buenos Aires,Tres de Febrero,Caseros,95461,46.3,58978,31.6,-14.7,-36483,-38.2,No confiable ver circuitos
+23474,Buenos Aires,Tres Lomas,Tres Lomas,2461,48.7,1569,36.3,-12.4,-892,-36.2,Confiable ver circuitos
+23479,Buenos Aires,9 de Julio,9 de Julio,11765,37.8,5891,20.9,-16.9,-5874,-49.9,No confiable ver circuitos
+23482,Buenos Aires,General Villegas,General Villegas,4985,27.4,5485,33.8,6.4,500,10.0,No confiable ver circuitos
+23495,Buenos Aires,Lobería,Lobería,4272,38.9,3425,36.4,-2.5,-847,-19.8,No confiable ver circuitos
